@@ -1,0 +1,8 @@
+{
+  "fixture_notice": "离线页面资料模拟；不是在线采集结果。",
+  "filters": {"date_range": "未确认", "status": "未确认", "confirmed": false},
+  "source": {"page": "订单列表", "visible_location": "筛选栏"},
+  "orders": [
+    {"order_id": "ORD-EXAMPLE-001", "created_at": "未知", "status": "待发货", "buyer": "示*", "action_needed": "不得据此推断全店总数", "evidence": "筛选状态未显示"}
+  ]
+}
