@@ -2,7 +2,7 @@ name: shop-order-status-digest-free
 slug: shop-order-status-digest-free
 display_name: 店铺订单状态清单
 description: 在用户指定的 Easy WebBridge 浏览器环境中只读整理本人订单列表：按已确认的日期和状态筛选，最多汇总 20 单，交付状态计数、需要商家处理的订单、可见证据位置及缺项。未确认筛选时明确拒绝报告全店总数，自动遮盖敏感信息，不修改订单也不发送消息。
-version: 1.0.0
+version: 1.0.1
 icon: icon-512.png
 repository: https://github.com/xxjrq/shop-order-status-digest-free
 license: MIT
